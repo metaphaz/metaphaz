@@ -71,7 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/metaphaz/metaphaz/output/snake.svg" alt="Snake animation" />
-
-###
